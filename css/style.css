@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.contenitore-generale {
+    width: 90%;
+    margin: 0 5%;
+}
+
 /* Header della pagina */
 
 header {
